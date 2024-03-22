@@ -1,0 +1,5 @@
+flask-mongoengine
+flask-admin
+gunicorn
+pillow
+web-browser
